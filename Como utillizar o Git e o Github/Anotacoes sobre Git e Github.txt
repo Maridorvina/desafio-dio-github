@@ -2,7 +2,7 @@ Passo a passo para utilização do Git
 
 Fazer o download do Git 
 
-- link para download do git: https://git-scm.com/downloads
+<link para download do git: https://git-scm.com/downloads>
 
 O Git CMD é como o prompt de comando normal do Windows com o gitcomando. 
 Ele permite que você use todos os recursos do Git por meio da linha de 
@@ -16,4 +16,4 @@ Git sem tocar na linha de comando . É uma alternativa entre outros clientes Git
 Como a GUI do Git é muito mínima, 
 você também pode procurar outras alternativas se as GUIs lhe interessarem.
 
-(link de refencia: https://stackoverflow.com/questions/45034549/difference-between-git-gui-git-bash-git-cmd#:~:text=Git%20Bash%20emulates%20a%20bash,Git%20without%20touching%20command%20line.)
+(link de refencia: <https://stackoverflow.com/questions/45034549/difference-between-git-gui-git-bash-git-cmd#:~:text=Git%20Bash%20emulates%20a%20bash,Git%20without%20touching%20command%20line.>)
